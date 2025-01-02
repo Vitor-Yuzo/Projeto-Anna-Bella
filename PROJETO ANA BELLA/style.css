@@ -1,0 +1,56 @@
+body{
+	background-image: url("imagens/fundo.png");
+	background-color: #d2d2c1;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#imagem{
+	width: 860px;
+	border-width: 5px;
+}
+
+.id{
+	border: 8px solid #c5c5b2;
+}
+
+.formatacao{
+	width: 860px;
+}
+
+#cabeçalho{
+	background-color: #c5c5b2;
+	padding: 20px;
+	width: 860px;
+}
+
+a{
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+#corpo{
+	background-color: #e8e8d9;
+	padding: 20px;
+	width: 860px;
+	text-align: justify;
+}
+
+#titulo{
+	color: #828271;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+.direitos{
+	width: 860px;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	padding: 50px;
+}
+
+.contato{
+	font-weight: bold;
+}
